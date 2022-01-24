@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reiearth. [Otaku Designer Developer Dad]
-- 👀 I’m interested in ...UI/UIX Design, Web Development and Motion Graphics
+- 👀 I’m interested in ...UI/UIX Design, Web Development, Motion Graphics and my fave Anime especially Naruto
 - 🌱 I’m currently learning ...React, Next.Js, Chakra UI and other tech stacks
 - 💞️ I’m looking to collaborate on ...fellow Freelance Developers
 - 📫 How to reach me ...reionlinebiz@gmail.com
