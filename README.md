@@ -6,8 +6,12 @@
 ---
 - *Portfolio Sites*
 - **[https://chakraui-appv1.vercel.app/]**
+- **[https://reiearth-portfolio.vercel.app]**
 - **[https://chakraui-app.herokuapp.com/]**
 - **[https://iamrei.netlify.app/]**
+
+*Linkedin*
+**https://www.linkedin.com/in/reiudarbe111/**
 
 <!---
 reiearth/reiearth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
